@@ -3,7 +3,7 @@
 ## 文件路径、脚本网址
 dir_shell=$(dirname $(readlink -f "$0"))
 dir_root=$dir_shell
-url_shell=${JD_ROOT_URL:-git@jd_root_gitee:zdck/jd_shell.git}
+url_shell=${JD_ROOT_URL:-git@github:ys0722/jd_shell.git}
 url_scripts=${JD_SCRIPTS_URL:-git@jd_scripts_gitee:zdck/jd_scripts.git}
 send_mark=$dir_shell/send_mark
 
