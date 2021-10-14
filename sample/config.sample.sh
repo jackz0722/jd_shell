@@ -1,4 +1,4 @@
-## Version: v4.2.4
+## Version: v4.2.5
 ## Date: 2021-04-01
 ## Update Content: 今后不再维护config.sample.sh中的互助码区域，如需要知道如何填写，直接运行jcode脚本后，全部复制过来粘贴在config.sh中第三区域或粘贴在config目录下sharecode.sh中即可，并按需修改，运行jtask命令时，sharecode.sh会覆盖jcode日志同名变量，不同名的不覆盖。
 
